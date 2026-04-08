@@ -68,8 +68,8 @@ Open the HTML file in a browser — the prompts and alerts will appear automatic
 
 ## Sample Test Results
 
-| Q | Input | Expected Output | Status |
-|---|-------|-----------------|--------|
+| Q | Input | Expected Output |
+|---|-------|-----------------|
 | 1 | L=1, R=50, K=4 | 3 | 
 | 2 | N=37, seed=4 | YES, 947 | 
 | 3 | N=37, K=6 | 29 | 
